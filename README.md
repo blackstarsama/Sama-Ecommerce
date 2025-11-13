@@ -154,7 +154,7 @@ Les contributions sont les bienvenues ! Pour contribuer :
 
 ## 💬 Support
 
-Pour toute question ou problème, veuillez ouvrir une issue ou nous contacter.
+Pour toute question ou problème, veuillez ouvrir une issue ou me contacter.
 
 ---
 
